@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: <place/holder>
 - ⚡ Fun fact: <place/holder>
 
+<h6>* Top right card used <a href="https://github.com/anuraghazra/github-readme-stats/">GitHub Readme Stats</a>.</h6>
